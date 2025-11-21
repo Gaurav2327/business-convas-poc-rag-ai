@@ -1,4 +1,4 @@
-# 🤖 RAG System with File Upload (100% FREE)
+# 🤖 RAG AI
 
 A complete RAG (Retrieval-Augmented Generation) system that lets you upload documents and ask questions about them using **free, local AI models** and a **Python backend**.
 
