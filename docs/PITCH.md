@@ -47,9 +47,9 @@
 ## 🛠️ Solution Concept
 
 **Architecture:**
-```
+
 ![RAG](arch.png)
-```
+
 
 **Key Components:**
 - **Frontend:** Chrome Extension (PDF, Excel, CSV, TXT support)
