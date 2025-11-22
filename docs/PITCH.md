@@ -201,13 +201,4 @@
 
 ---
 
-## 📞 Call to Action
-
-**Looking For:**
-- 🤝 **Beta Partners:** Organizations to pilot in healthcare, legal, finance, hr, sales
-- 💰 **Seed Funding:** ?? for 12-month runway (team + infrastructure)
-- 🎓 **Strategic Advisors:** AI/ML experts, App Developers, and enterprise sales mentors
-
----
-
 
