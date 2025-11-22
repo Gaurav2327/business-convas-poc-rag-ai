@@ -48,7 +48,7 @@
 
 **Architecture:**
 ```
-![RAG](docs/arch.png)
+![RAG](arch.png)
 ```
 
 **Key Components:**
