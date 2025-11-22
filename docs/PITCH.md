@@ -14,7 +14,7 @@
 ## 👥 Target Market
 
 **Primary:**
-- **Any Industry* : Budget-conscious, privacy-aware
+- **Any Industry:** Budget-conscious, privacy-aware
 - **Regulated Industries:** Healthcare, Legal, Finance requiring data sovereignty
 - **Developers & Tech Teams:** Building internal AI tools without API costs
 
