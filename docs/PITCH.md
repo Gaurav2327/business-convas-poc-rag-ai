@@ -63,7 +63,7 @@
 
 | Solution | Cost/Month      | Privacy | Setup Time |
 |----------|-----------------|---------|------------|
-| **RAG AI (Us)** | **$10-50/user** | **100% Private** | **1 week** |
+| **RAG AI (Us)** | **$1-10/user** | **100% Private** | **1 week** |
 | ChatGPT Enterprise | $60/user        | Cloud | 2 weeks    |
 | Azure OpenAI | $200-500        | Hybrid | 1 month    |
 | AWS Bedrock | $150-400        | Hybrid | 2 weeks    |
@@ -81,8 +81,8 @@
 - 💾 **~2000 char chunks** for optimal context
 
 **Adoption (POC Phase):**
-- 5-10 test users across healthcare, legal, education
-- 500+ documents indexed
+- 5-10 test users across the teams
+- 100+ documents indexed
 - 95% user satisfaction with answer quality
 
 ---
