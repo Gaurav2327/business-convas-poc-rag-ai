@@ -6,7 +6,6 @@ A complete RAG (Retrieval-Augmented Generation) system that lets you upload docu
 
 - 📄 **Upload Documents**: Excel (.xlsx, .xls), PDF, CSV, TXT files
 - 🔍 **Ask Questions**: Query your uploaded content using natural language
-- 🆓 **100% FREE**: Uses Ollama (Llama 3) + local embeddings - no API costs!
 - ⚡ **Fast**: ~480ms response time (2x faster than cloud alternatives)
 - 🔒 **Private**: All data processing happens locally on your machine
 - 📊 **Vector Search**: Powered by Pinecone for semantic search
